@@ -1,1 +1,1 @@
-Simble Shopping Card
+Simple Shopping Card
